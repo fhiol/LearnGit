@@ -10,7 +10,8 @@ export default {
   name: "HelloWorld",
   data() {
     return {
-      categories: ""
+      categories: "",
+      test: "cnsj"
     };
   },
   created() {
